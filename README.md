@@ -5,5 +5,4 @@ Este proyecto consiste en una aplicación de línea de comandos a la que le indi
 
 📖 [API para sacar la información del clima](https://weatherstack.com/)
 
-## Tutorial
-Aquí te dejo el enlace del video en mi canal de YouTube en el que explico como realizar esta aplicación: https://youtu.be/2RC2N0C8uaM
+
